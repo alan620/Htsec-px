@@ -1,10 +1,18 @@
 ### CentOS7
 
-执行安装命令：`yum install httpd`![](/assets/image-20201028093333947.png)
+执行安装命令：
 
-查看版本：`httpd -v`
+```
+yum install httpd 
+```
 
 
+
+查看版本：
+
+```
+httpd -v
+```
 
 ### CentOS6
 
