@@ -47,7 +47,5 @@
 | Anaconda | yum install -y anaconda-core | 不常用暂不提供 |
 | Git | yum install git222 | yum install git222 |
 
-备注：除了提供以上常用中间件基线，海通镜像源也提供aix源、centos源、docker-ce源、epel源、pypi源、ubuntu源等。如需其他软件，可直接下载；如出现无法下载的情况，与我联系。
-
-
+备注：除了提供以上常用中间件基线，海通镜像源也提供aix源、centos源、docker-ce源、epel源、pypi源、ubuntu源等。如需其他软件，可直接下载；如出现无法下载的情况，与我联系（WX：18916271961）。
 
