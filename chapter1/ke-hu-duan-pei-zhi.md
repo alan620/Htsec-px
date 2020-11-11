@@ -50,5 +50,5 @@ yum makecache
 yum repolist
 ```
 
-![](file://C:/Users/90607/Desktop/新建文件夹/upload/image-20201027171719920.png?lastModify=1605087087 "image-20201027171719920")
+![](/assets/image-20201027171719920.png)
 
