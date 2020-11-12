@@ -32,7 +32,7 @@
 
 | 软件名 | CentOS7 | CentOS6 |
 | :--- | :--- | :--- |
-| Apache | yum install -y httpd | yum install -y**httpd24\*** |
+| Apache | yum install -y httpd | yum install -y **httpd24\*** |
 | GCC&G++ | yum install -y devtoolset-9\*\(需配置\) | yum install -y devtoolset-9\*\(需配置\) |
 | Nginx | yum install -y nginx | yum install -y nginx |
 | Redis | 编译安装 | 编译安装 |
