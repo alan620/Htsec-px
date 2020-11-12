@@ -1,7 +1,5 @@
 ### Apache
 
-
-
 #### CentOS7
 
 执行安装命令：
@@ -10,11 +8,15 @@
 yum install httpd
 ```
 
+![](/assets/apache1.png)
+
 查看版本：
 
 ```
 httpd -v
 ```
+
+#### ![](/assets/apache2.png)
 
 #### CentOS6
 
