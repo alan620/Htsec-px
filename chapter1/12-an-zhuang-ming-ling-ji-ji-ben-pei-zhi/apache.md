@@ -1,12 +1,14 @@
-### CentOS7
+### Apache
+
+
+
+#### CentOS7
 
 执行安装命令：
 
 ```
-yum install httpd 
+yum install httpd
 ```
-
-
 
 查看版本：
 
@@ -14,7 +16,7 @@ yum install httpd
 httpd -v
 ```
 
-### CentOS6
+#### CentOS6
 
 执行安装命令：
 
