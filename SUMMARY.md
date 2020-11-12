@@ -6,4 +6,6 @@
   * [1.2 安装命令及基本配置](chapter1/12-an-zhuang-ming-ling-ji-ji-ben-pei-zhi.md)
     * [Apache](chapter1/12-an-zhuang-ming-ling-ji-ji-ben-pei-zhi/apache.md)
     * [GCC&G++](chapter1/12-an-zhuang-ming-ling-ji-ji-ben-pei-zhi/gccandg++.md)
+    * [Nginx](chapter1/12-an-zhuang-ming-ling-ji-ji-ben-pei-zhi/nginx.md)
+    * [Redis](chapter1/12-an-zhuang-ming-ling-ji-ji-ben-pei-zhi/redis.md)
 
