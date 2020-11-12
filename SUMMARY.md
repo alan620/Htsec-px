@@ -17,3 +17,14 @@
     * [Anaconda-core](chapter1/12-an-zhuang-ming-ling-ji-ji-ben-pei-zhi/anaconda-core.md)
     * [Git](chapter1/12-an-zhuang-ming-ling-ji-ji-ben-pei-zhi/git.md)
 
+## Yum
+
+* [概览](yum/gai-lan.md)
+* [客户端配置](yum/ke-hu-duan-pei-zhi.md)
+
+## Pip
+
+## Npm
+
+## Maven
+
